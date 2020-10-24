@@ -65,11 +65,11 @@ to develop and understand very basics of programming.
 
 ![jin-jang](x-pictures/yin_yang.jpg)
 
-## hodiny.pas
+## sand_glass.pas
 
-[hodiny source](x-pictures/sand_glass.pas)
+[sand_glass source](x-pictures/sand_glass.pas)
 
-![hodiny](x-pictures/sand_glass.jpg)
+![sand_glass](x-pictures/sand_glass.jpg)
 
 
 ## circle.pas
