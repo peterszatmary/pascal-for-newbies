@@ -59,11 +59,11 @@ to develop and understand very basics of programming.
 ![britain](flags/britain.jpg)
 
 
-## jin-jang.pas
+## yin-yang.pas
 
-[jin-jang source](x-pictures/yin_yang.pas)
+[yin-yang source](x-pictures/yin_yang.pas)
 
-![jin-jang](x-pictures/yin_yang.jpg)
+![yin-yang](x-pictures/yin_yang.jpg)
 
 ## sand_glass.pas
 
