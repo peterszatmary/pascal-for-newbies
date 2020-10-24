@@ -1,4 +1,4 @@
-program pyramida;
+program pyramid;
 uses crt;
 var s, r, d, i, j, m : byte;
 

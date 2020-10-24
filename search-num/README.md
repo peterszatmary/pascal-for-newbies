@@ -1,7 +1,11 @@
-## search-20.pas
+## search_20.pas
 
-Program načíta 6 ľubovoľných čísel a zistí či je medzi nimi číslo 20.
+[search_20.pas](search_20.pas)
 
-## search-num.pas
+The program reads 6 arbitrary numbers and finds out if there is a number 20 between them.
 
-Rozšírime program tak, aby hľadal číslo, ktoré určí používateľ.
+## search_num.pas
+
+[search_num.pas](search_num.pas)
+
+We extend the program to search for a number specified by the user.

@@ -1,4 +1,4 @@
-program france;
+program france_in_multiple_layers;
 uses graph;
 var d, m, x, y : integer;
 

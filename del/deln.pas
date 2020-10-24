@@ -4,20 +4,20 @@ var n, g : integer;
 begin
 clrscr;
 
-writeln('Program nacita uzivatelom zadane cislo a zisti ci je delitelne cislom takisto zadanym pouzivatelom');
+writeln('The program reads the number entered by the user and finds out whether it is divisible by the number also entered by the user');
 writeln;
-writeln('Zadaj lubovolne cislo');
+writeln('Type number');
 writeln;
 readln(n);
 writeln;
-writeln('Pre ake cislo chces otestovat delitelnost tvojho cisla?');
+writeln('For which number do you want to test the divisibility of your number?');
 writeln;
 readln(g);
 
 if n mod g = 0 then
-	writeln(' Cislo ',n,' je delitelne cislom ',g,'.')
+	writeln(' Number ',n,' is divisible by ',g,'.')
 else
-	writeln(' Cislo ',n,' nie je delitelne cislom ',g,'.');
+	writeln(' Number ',n,' is divisible ',g,'.');
 
 readln;
 end.

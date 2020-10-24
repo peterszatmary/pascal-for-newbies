@@ -1,8 +1,8 @@
-## jin-jang.pas
+## yin-yang.pas
 
-[jin-jang source](jin-jang.pas)
+[yin-yang source](yin-yang.pas)
 
-![jin-jang](jin-jang.jpg)
+![yin-yang](yin-yang.jpg)
 
 ## hodiny.pas
 

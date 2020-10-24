@@ -1,9 +1,11 @@
 ## del17.pas
 
-Program načíta užívateľom zadané číslo a zistí či je deliteľné číslom 17.
+[del17.pas](del17.pas)
+
+Program read user input number and find out if the number is divisible with 17.
 
 ## deln.pas
 
-Program by sa dal rozšíriť napríklad tým, že by sa nahradilo konkrétne, číslo 17 premennou, ktorá by bola nastavená používateľom zo štandardného vstupu. Tým by program vedel sledovať lubovoľnú deliteľnosť.
+[deln.pas](deln.pas)
 
- 
+Program read user input number and find out if the number is divisible with user input number.

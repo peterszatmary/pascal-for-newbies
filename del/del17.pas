@@ -4,17 +4,17 @@ var n : integer;
 begin
 clrscr;
 
-writeln('Program nacita uzivatelom zadane cislo a zisti ci je delitelne cislom 17 ');
+writeln(' The program reads the number entered by the user and finds out whether it is divisible by the number 17 ');
 writeln;
-writeln('Zadaj lubovolne cislo');
+writeln('Type number');
 writeln;
 readln(n);
 writeln;
 
 if n mod 17 = 0 then
-	writeln(' Cislo ',n,' je delitelne cislom 17. ')
+	writeln(' Number ',n,' is divisible by 17. ')
 else
-	writeln(' Cislo ',n,' nie je delitelne cislom 17. ');
+	writeln(' Number ',n,' it is not is divisible by 17. ');
 
 readln;
 end.

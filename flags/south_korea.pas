@@ -1,4 +1,4 @@
-program korea;
+program south_korea;
 uses graph;
 var x, y, d, m : integer;
 

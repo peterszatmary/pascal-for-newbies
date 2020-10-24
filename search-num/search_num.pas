@@ -1,4 +1,4 @@
-program searchnum;
+program search_num;
 uses crt;
 var a, b, c, d, e, f, g: integer;
 
