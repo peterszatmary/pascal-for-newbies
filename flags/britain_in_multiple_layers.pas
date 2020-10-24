@@ -7,7 +7,7 @@ begin
   initgraph(d, m, 'c:\tp\bgi');
   bar(0, 0, 638, 479);
 
-{-------kriz vo vlajke-------------------------------}
+{------- cross in the flag -------------------------------}
 
   setcolor(red);
   line(0, 210, 280, 210);
@@ -26,7 +26,7 @@ begin
   setfillstyle(solidfill, red);
   floodfill(320, 240, red);
 
-{--------------dolna lava cast vlajky----------------}
+{-------------- lower left part of the flag ----------------}
 
   setcolor(blue);
   line(38, 479, 260, 300);
@@ -48,7 +48,7 @@ begin
   setfillstyle(solidfill, red);
   floodfill(2, 478, red);
 
-{-------------horna lava cast vlajky-----------------------}
+{------------- upper left part of the flag -----------------------}
 
   line(0, 0, 236, 190);
   line(236, 190, 206, 190);
@@ -69,7 +69,7 @@ begin
   line(28, 0, 260, 0);
   floodfill(100, 50, blue);
 
-{-------------dolna prava cast vlajky------------------}
+{------------- lower right part of the flag ------------------}
 
   line(380, 479, 380, 300);
   line(380, 300, 602, 479);
@@ -89,7 +89,7 @@ begin
   setfillstyle(solidfill, red);
   floodfill(637, 478, red);
 
-{---------horna prava cast vlajky---------------}
+{--------- upper right part of the flag ---------------}
 
   line(612, 0, 380, 190);
   line(380, 190, 408, 190);

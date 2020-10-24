@@ -7,7 +7,7 @@ begin
   initgraph(d, m, 'c:\tp\bgi');
 
   setcolor(yellow);
-  rectangle(0, 0, 638, 478); { obrys vlajky zltou }
+  rectangle(0, 0, 638, 478); { yellow border }
 
   line(0, 390, 638, 390);
   line(0, 90, 638, 90);
@@ -23,7 +23,7 @@ begin
 
   circle(175, 240, 100);
 
-  line(173, 144, 192, 204); { hviezda }
+  line(173, 144, 192, 204); { star }
   line(192, 204, 262, 204);
   line(262, 204, 205, 246);
   line(205, 246, 230, 313);

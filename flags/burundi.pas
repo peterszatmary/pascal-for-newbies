@@ -1,8 +1,8 @@
-program BURUNDI;
+program burundi;
 uses graph;
 var d, m, x, y : integer;
 
-procedure hviezda_6;
+procedure star;
 begin
   setcolor(green);
   moveto(x, y);
@@ -48,10 +48,10 @@ begin
 
   setcolor(blue);
   rectangle(0, 0, 638, 479);
-  ARC(320, 240, 48, 132, 100); { horna cast kruhu }
-  ARC(320, 240, 153, 207, 100); { lava cast kruhu }
-  ARC(320, 240, 228, 312, 100); { dolna cast kruhu }
-  ARC(320, 240, 334, 387, 100); { prava cast kruhu }
+  ARC(320, 240, 48, 132, 100); { upper part of circle }
+  ARC(320, 240, 153, 207, 100); { left part of circle }
+  ARC(320, 240, 228, 312, 100); { lower part of circle }
+  ARC(320, 240, 334, 387, 100); { right cast kruhu }
   line(30, 0, 254, 166);
   line(0, 30, 230, 195);
   line(609, 0, 386, 166);
@@ -74,15 +74,15 @@ begin
 
   x := 320;
   y := 153;
-  hviezda_6;
+  star;
 
   x := 280;
   y := 238;
-  hviezda_6;
+  star;
 
   x := 360;
   y := 238;
-  hviezda_6;
+  star;
 
   readln;
   closegraph;

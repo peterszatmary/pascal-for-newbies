@@ -2,7 +2,7 @@ program usa_in_multiple_layers;
 uses graph;
 var d, m, x, y, i, j: integer;
 
-procedure hviezda;
+procedure star;
 
 begin
   moveto(x,y);
@@ -19,7 +19,7 @@ begin
   lineto(x,y);
   x := x - 4;
   y := y - 4;
-  lineto(x,y);        {odteraz zrkadlovite}
+  lineto(x,y);        {mirrroring from now}
   x := x - 4;
   y := y + 4;
   lineto(x,y);
@@ -38,7 +38,7 @@ begin
   floodfill(x, y + 3, yellow);
 end;
 
-procedure cervenypas(y1, y2 : word);
+procedure red_line(y1, y2 : word);
 var x, y : integer;
 
 begin
@@ -57,26 +57,26 @@ begin
   setfillstyle(solidfill, white);
   floodfill(320, 240, white);
 
-  cervenypas(0, 37);
-  cervenypas(74, 111);
-  cervenypas(148, 185);
-  cervenypas(222, 258);
-  cervenypas(296, 333);
-  cervenypas(370, 407);
-  cervenypas(444, 480);
+  red_line(0, 37);
+  red_line(74, 111);
+  red_line(148, 185);
+  red_line(222, 258);
+  red_line(296, 333);
+  red_line(370, 407);
+  red_line(444, 480);
 
-  setcolor(blue); { obrys vlajky zltou }
+  setcolor(blue); { outline flag yellow }
   rectangle(0, 0, 258, 258);
   setfillstyle(solidfill, blue);
   floodfill(10, 10, blue);
 
-  setcolor(white); { biela farba pera koli obrysu hviezd }
+  setcolor(white); { white color pen becuse of outline of stars }
   for j := 0 to 4 do begin
     x := -28;
     for i := 1 to 6 do begin
       x := x + 44;
       y := 10*j + 10*j + 10*j + 10*j + 10*j + 20;
-      hviezda;
+      star;
     end;
   end;
 
@@ -85,7 +85,7 @@ begin
     for i := 1 to 5 do begin
       x := x + 44;
       y := 10*j + 10*j + 10*j + 10*j + 10*j + 45;
-      hviezda;
+      star;
     end;
   end;
 
