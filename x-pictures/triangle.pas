@@ -1,22 +1,22 @@
-program prazdny_trojuholnik;
+program empty_triangel;
 uses crt;
 var i, s, r, d :integer;
 
 begin
   clrscr;
-  writeln(' program nakresli prazdny trojuholnik so stranou aku zadate ');
-  writeln(' program je kalibrovany na neparne hodnoty velkosti strany '&lt;/span&gt;);
+  writeln(' rogram draw an empty triangle with size of which you enter ');
+  writeln(' the program is calibrated to odd  size values ');
   writeln;
   writeln;
-  writeln(' zadaj pocet x v zakladni ');
+  writeln(' enter the number of x in the base ');
   readln(d);
-  if d mod 2 &lt;&gt; 0 { cize ak je d neparne } then
+  if d mod 2 <> 0 { d is odd } then
   begin
-  writeln(' zadaj stlpec ');
+  writeln(' type column ');
   readln(s);
-  writeln(' zadaj riadok ');
+  writeln(' type row ');
   readln(r);
-  gotoxy(s,r);{ kurzor nastavi na moju zadanu hodnotu}
+  gotoxy(s,r); { sets the cursor to my specified value }
 
   for i := 1 to (d) do write('x');
   for i := 1 to ((d div 2) - 1) do
@@ -35,8 +35,8 @@ begin
   s := s + 1;
   gotoxy(s,r);
   write('x');
-end { tu sa nema dat bodkociarka }
+end
 
-else writeln(' ERROR!!! Program je kalibrovany na neparne hodnoty velkosti strany');
+else writeln(' ERROR, The program is calibrated to odd page size values ');
 readln;
 end.

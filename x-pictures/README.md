@@ -1,14 +1,14 @@
-## yin-yang.pas
+## yin_yang.pas
 
-[yin-yang source](yin-yang.pas)
+[yin_yang source](yin_yang.pas)
 
-![yin-yang](yin-yang.jpg)
+![yin_yang](yin_yang.jpg)
 
-## hodiny.pas
+## sand_glass.pas
 
-[hodiny source](hodiny.pas)
+[sand_glass source](sand_glass.pas)
 
-![hodiny](hodiny.jpg)
+![sand_glass](sand_glass.jpg)
 
 
 ## circle.pas
@@ -21,7 +21,7 @@
 
 [triangle source](triangle.pas)
 
-![triangle readme](triangle.jpg)
+![triangle](triangle.jpg)
 
 ## triangle-full.pas
 
@@ -43,17 +43,17 @@
 
 ![prazdny_kosostvorec readme](prazdny_kosostvorec.jpg)
 
-## plny_kosostvorec.pas
+## full_rhombus.pas
 
-[plny_kosostvorec source](plny_kosostvorec.pas)
+[full_rhombus source](full_rhombus.pas)
 
-![plny_kosostvorec readme](plny_kosostvorec.jpg)
+![full_rhombus readme](full_rhombus.jpg)
 
-## pravo1.pas
+## right_triangle.pas
 
-[pravo1 source](pravo1.pas)
+[right_triangle source](right_triangle.pas)
 
-![pravo1 readme](pravo1.jpg)
+![right_triangle](right_triangle.jpg)
 
 ## pravo2.pas
 

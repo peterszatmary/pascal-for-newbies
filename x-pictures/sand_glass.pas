@@ -1,4 +1,4 @@
-program presypacie_hodiny;
+program sand_glass;
 uses crt;
 var s, r, d, i, j, m, f : byte;
 

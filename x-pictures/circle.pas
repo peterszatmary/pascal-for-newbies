@@ -4,14 +4,14 @@ var i, s, r, d : integer;
 
 begin
   clrscr;
-  writeln(' program nakresli obrazec pripominajuci kruznicu ');
+  writeln(' the program will draw a shape resembling a circle ');
   writeln;
   writeln;
-  writeln(' zadaj velkost ');
+  writeln(' type size ');
   readln(d);
-  writeln(' zadaj stlpec ');
+  writeln(' type column ');
   readln(s);
-  writeln(' zadaj riadok ');
+  writeln(' type row ');
   readln(r);
   gotoxy(s,r);
 

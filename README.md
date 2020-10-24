@@ -61,15 +61,15 @@ to develop and understand very basics of programming.
 
 ## jin-jang.pas
 
-[jin-jang source](x-pictures/yin-yang.pas)
+[jin-jang source](x-pictures/yin_yang.pas)
 
-![jin-jang](x-pictures/yin-yang.jpg)
+![jin-jang](x-pictures/yin_yang.jpg)
 
 ## hodiny.pas
 
-[hodiny source](x-pictures/hodiny.pas)
+[hodiny source](x-pictures/sand_glass.pas)
 
-![hodiny](x-pictures/hodiny.jpg)
+![hodiny](x-pictures/sand_glass.jpg)
 
 
 ## circle.pas
@@ -106,15 +106,15 @@ to develop and understand very basics of programming.
 
 ## plny_kosostvorec.pas
 
-[plny_kosostvorec source](x-pictures/plny_kosostvorec.pas)
+[plny_kosostvorec source](x-pictures/full_rhombus.pas)
 
-![plny_kosostvorec readme](x-pictures/plny_kosostvorec.jpg)
+![plny_kosostvorec readme](x-pictures/full_rhombus.jpg)
 
 ## pravo1.pas
 
-[pravo1 source](x-pictures/pravo1.pas)
+[pravo1 source](x-pictures/right_triangle.pas)
 
-![pravo1 readme](x-pictures/pravo1.jpg)
+![pravo1 readme](x-pictures/right_triangle.jpg)
 
 ## pravo2.pas
 

@@ -1,4 +1,4 @@
-program yinyang;
+program yin_yang;
 uses graph;
 var d, m : integer;
 

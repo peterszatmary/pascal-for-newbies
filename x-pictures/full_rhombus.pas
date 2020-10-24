@@ -1,16 +1,16 @@
-program kosostvorec;
+program full_rhombus;
 uses crt;
 var s, r, d, i, j, m : byte;
 
 begin
 clrscr;
-writeln(' program nakresli z krizikov plny kosostvorec ');
+writeln(' program drawn from x full rhombus ');
 writeln;
-writeln(' zadaj pocet krizikov zakladne ');
+writeln(' enter the number of basic crises ');
 readln(d);
-writeln(' zadaj riadok ');
+writeln(' type row ');
 readln(r);
-writeln(' zadaj stlpec ');
+writeln(' type column ');
 readln(s);
 gotoxy(s,r);
 for i := 1 to d do begin
