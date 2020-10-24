@@ -14,13 +14,15 @@ to develop and understand very basics of programming.
 
 ## burundi.pas
 
+[burundi source code](flags/burundi.pas)
+
 ![burundi](flags/burundi.jpg)
 
 ## north_korea.pas
 
 [north korea source code](flags/north_korea_in_one_layer.pas) in one layer not overlapping
 
-[north korea source code](flags/north_korea_in_mutliple_layers.pas) in multiple layers overlapping
+[north korea source code](flags/north_korea_in_multiple_layers.pas) in multiple layers overlapping
 
 ![burundi](flags/north_korea.jpg)
 
@@ -33,6 +35,7 @@ to develop and understand very basics of programming.
 ## france.pas
 
 [france source code in multiple layers](flags/france_in_multiple_layers.pas) version in multiple layers overlapping
+
 [france source code in one layer](flags/france_in_one_layer.pas) version in one layer not overlapping
 
 ![france](flags/france.jpg)
@@ -207,16 +210,3 @@ The program reads the user-specified interval in radians, converts it, and print
 The program calculates the volume and surface of the following : cube, block, sphere, 
 rotating cone, rotating cylinder. The program gives you the opportunity to choose for
  which shape it will be calculated.
- 
- 
- ## volume_surface.pas
- 
- [volume_surface.pas](volume_surface.pas)
- 
- The program calculates the volume and surface of the following : cube, block, sphere, 
- rotating cone, rotating cylinder. The program gives you the opportunity to choose 
- for which shape it will be calculated.
-
-
-
-
