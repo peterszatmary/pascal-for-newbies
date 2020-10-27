@@ -23,19 +23,19 @@
 
 ![triangle](triangle.jpg)
 
-## triangle-full.pas
+## triangle_full.pas
 
-[triangle-full source](triangle-full.pas) until - repeat version
+[triangle_full source](triangle_full.pas) until - repeat version
 
-[triangle-full-2 source](triangle-full-2.pas)
+[triangle_full_2 source](triangle_full_2.pas)
 
-![triangle-full readme](triangle-full.jpg)
+![triangle_full](triangle_full.jpg)
 
-## sustredne_stvorce.pas
+## square in square.pas
 
-[sustredne_stvorce source](sustredne_stvorce.pas)
+[square in square source](square_in_square.pas)
 
-![sustredne_stvorce readme](sustredne_stvorce.jpg)
+![square in square](square_in_square.jpg)
 
 ## empty_rhombus.pas
 

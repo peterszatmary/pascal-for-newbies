@@ -1,10 +1,10 @@
-program pyramida;
+program triangle_full_2;
 uses crt ;
 var s, r, d, i, j, m : byte;
 
 begin
   clrscr;
-  writeln(' app draw pyramid from x ');
+  writeln(' app draw triangle_full from x ');
   writeln;
   writeln(' enter the number of basic ');
   readln(d);
