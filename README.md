@@ -4,7 +4,7 @@ My old pascal programs from high school. I saved just few of them. It is strange
 many programs disappear so easy. I hope this repository will help someone to learn as it helped me to start
 to develop and understand very basics of programming.
 
-In this repository you can find 37 basic pascal programs.
+In this repository you can find 35 basic pascal programs.
 
 ## 1. - 2. usa.pas
 
@@ -169,42 +169,27 @@ Extending the program to list all numbers with properties
 which is entered by the user from an interval also entered by the user. These are: the divisor 
 of all the numbers in the interval, the remainder after dividing all the numbers in the interval.
 
-## 32. interval.pas
 
-[interval.pas](interval/interval.pas)
-
-The program prints all numbers from the interval, the limit of which is entered by the user.
-
-## 33. interval_ext.pas
-
-[interval_ext.pas](interval/interval_ext.pas)
-
-Extending the program to list all numbers with properties
-which is entered by the user from an interval also entered by the user. 
-These are: the divisor of all the numbers in the interval, the remainder after 
-dividing all the numbers in the interval.
-
-
-## 34. search_20.pas
+## 32. search_20.pas
 
 [search_20.pas](search-num/search_20.pas)
 
 The program reads 6 arbitrary numbers and finds out if there is a number 20 between them.
 
-## 35. search_num.pas
+## 33. search_num.pas
 
 [search_num.pas](search-num/search_num.pas)
 
 We extend the program to search for a number specified by the user.
 
 
-## 36. radian_values_of_sinus_from_interval.pas
+## 34. radian_values_of_sinus_from_interval.pas
 
 [radian_values_of_sinus_from_interval.pas](sinus-in-radians/radian_values_of_sinus_from_interval.pas)
 
 The program reads the user-specified interval in radians, converts it, and prints the sine values in increments π/36.
 
-## 37. volume_surface.pas
+## 35. volume_surface.pas
 
 [volume_surface.pas](volume-surface/volume_surface.pas)
 
