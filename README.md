@@ -4,6 +4,8 @@ My old pascal programs from high school. I saved just few of them. It is strange
 many programs disappear so easy. I hope this repository will help someone to learn as it helped me to start
 to develop and understand very basics of programming.
 
+In this repository you can find 37 basic pascal programs.
+
 ## 1. - 2. usa.pas
 
 [usa source code in multiple layers](flags/usa_in_multiple_layers.pas) in multiple layers overlapping
