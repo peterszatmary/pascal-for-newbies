@@ -1,17 +1,17 @@
-program prazdny_kosostvorec;
+program empty_rhombus;
 uses crt;
 var i, s, r, d : integer;
 
 begin
   clrscr;
-  writeln(' program nakresli prazdny kosostvorec so stranou aku zadate ');
+  writeln(' the program draw an empty rhombus with the side you enter ');
   writeln;
   writeln;
-  writeln(' zadaj pocet x v zakladni ');
+  writeln(' number of the basics x ');
   readln(d);
-  writeln(' zadaj stlpec ');
+  writeln(' type column ');
   readln(s);
-  writeln(' zadaj riadok ');
+  writeln(' ztype row ');
   readln(r);
   gotoxy(s,r);
   for i := 1 to d do write ('x');

@@ -37,11 +37,11 @@
 
 ![sustredne_stvorce readme](sustredne_stvorce.jpg)
 
-## prazdny_kosostvorec.pas
+## empty_rhombus.pas
 
-[prazdny_kosostvorec source](prazdny_kosostvorec.pas)
+[empty_rhombus source](empty_rhombus.pas)
 
-![prazdny_kosostvorec readme](prazdny_kosostvorec.jpg)
+![empty_rhombus](empty_rhombus.jpg)
 
 ## full_rhombus.pas
 
@@ -55,8 +55,8 @@
 
 ![right_triangle](right_triangle.jpg)
 
-## pravo2.pas
+## right_angled_triangle.pas
 
-[pravo2 source](pravo2.pas)
+[right_angled_triangle source](right_angled_triangle.pas)
 
-![pravo2 readme](pravo2.jpg)
+![right_angled_triangle](right_angled_triangle.jpg)
